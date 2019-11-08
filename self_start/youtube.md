@@ -32,3 +32,4 @@ Yet another video series explaining neural networks is by 3Blue1Brown's YouTube 
 Now that you know how to implement a neural network from scratch (good job btw), it's time to get started with high level deeplearning libraries. But which one? There are plenty to choose from; Tensorflow, Keras, Pytorch, CNTK, MxNet.. Let's ask my main man [Siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A):
 
 [![Keras Explained](http://img.youtube.com/vi/j_pJmXJwMLA/0.jpg)](http://www.youtube.com/watch?v=j_pJmXJwMLA "Keras Explained")
+#thank you sreeram.i am very excited to see your youtube contents.go a head.all the best.we can meet in next meetups
